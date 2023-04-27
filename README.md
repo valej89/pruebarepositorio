@@ -6,3 +6,4 @@ Pasos para realizar el procedimiento
 2. Acceder a la carpeta a traves del IDE utilizado.
 3. Crear una rama de prueba. Realizar cambios en la rama.
 4. Agregar los cambios a la rama.
+5. Verificar si el commit se relacion con el issue.
